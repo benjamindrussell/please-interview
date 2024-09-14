@@ -2,6 +2,12 @@
 
 This script generates an interactive visualization of import relationships in a Python project. It helps you understand how different modules in your project are connected through imports.
 
+
+
+https://github.com/user-attachments/assets/20eb3962-cdd2-470b-847b-d7a2164eedce
+
+
+
 ## What it does
 
 1. Scans a specified Python project directory.
